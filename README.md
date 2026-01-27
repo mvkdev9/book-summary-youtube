@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-240)
+## Book List (1-250)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -257,6 +257,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 238. **Natural Born Heroes** by Christopher McDougall
 239. **Spark** by John J. Ratey
 240. **Go Wild** by John J. Ratey
+241. **Brain Rules** by John Medina
+242. **Brain Rules for Aging Well** by John Medina
+243. **The Brain That Changes Itself** by Norman Doidge
+244. **The Brain's Way of Healing** by Norman Doidge
+245. **Grain Brain** by David Perlmutter
+246. **Brain Maker** by David Perlmutter
+247. **Wheat Belly** by William Davis
+248. **The Plant Paradox** by Steven Gundry
+249. **The Longevity Paradox** by Steven Gundry
+250. **How Not to Die** by Michael Greger
 
 ## Usage
 
