@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-160)
+## Book List (1-170)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -175,6 +175,18 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 158. **Fooled by Randomness** by Nassim Nicholas Taleb
 159. **Bed of Procrustes** by Nassim Nicholas Taleb
 160. **Algorithms to Live By** by Brian Christian and Tom Griffiths
+
+### Relationships & Communication
+161. **Men Are from Mars, Women Are from Venus** by John Gray
+162. **The 5 Love Languages** by Gary Chapman
+163. **Attached** by Amir Levine and Rachel Heller
+164. **Hold Me Tight** by Sue Johnson
+165. **Seven Principles for Making Marriage Work** by John Gottman
+166. **The Relationship Cure** by John Gottman
+167. **Eight Dates** by John Gottman
+168. **Nonviolent Communication** by Marshall B. Rosenberg
+169. **Crucial Conversations** by Kerry Patterson et al.
+170. **Crucial Confrontations** by Kerry Patterson et al.
 
 ## Usage
 
