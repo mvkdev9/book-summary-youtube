@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-260)
+## Book List (1-270)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -277,6 +277,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 258. **Salt Sugar Fat** by Michael Moss
 259. **Hooked** by Michael Moss
 260. **In Defense of Food** by Michael Pollan
+261. **The Omnivore's Dilemma** by Michael Pollan
+262. **Food Rules** by Michael Pollan
+263. **Caffeine** by Michael Pollan
+264. **This Is Your Mind on Plants** by Michael Pollan
+265. **How to Change Your Mind** by Michael Pollan
+266. **Blue Zones** by Dan Buettner
+267. **The Blue Zones Solution** by Dan Buettner
+268. **Ikigai** by Hector Garcia and Francesc Miralles
+269. **Kaizen** by Sarah Harvey
+270. **Forest Bathing** by Dr. Qing Li
 
 ## Usage
 
