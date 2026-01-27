@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-230)
+## Book List (1-240)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -247,6 +247,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 228. **The Bulletproof Diet** by Dave Asprey
 229. **Super Human** by Dave Asprey
 230. **Fast This Way** by Dave Asprey
+231. **Lifespan** by David Sinclair
+232. **Outlive** by Peter Attia
+233. **The 4-Hour Body** by Timothy Ferriss
+234. **The 4-Hour Chef** by Timothy Ferriss
+235. **Tools of Titans** by Timothy Ferriss
+236. **Tribe of Mentors** by Timothy Ferriss
+237. **Born to Run** by Christopher McDougall
+238. **Natural Born Heroes** by Christopher McDougall
+239. **Spark** by John J. Ratey
+240. **Go Wild** by John J. Ratey
 
 ## Usage
 
