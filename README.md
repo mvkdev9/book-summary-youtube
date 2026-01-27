@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-290)
+## Book List (1-300)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -309,6 +309,18 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 288. **Secrets of the Millionaire Mind** by T. Harv Eker
 289. **The Almanack of Naval Ravikant** by Eric Jorgenson
 290. **Principles** by Ray Dalio
+
+### Business, Leadership & Innovation
+291. **The Lean Startup** by Eric Ries
+292. **The E-Myth Revisited** by Michael Gerber
+293. **Good to Great** by Jim Collins
+294. **Built to Last** by Jim Collins
+295. **Great by Choice** by Jim Collins
+296. **How the Mighty Fall** by Jim Collins
+297. **Rework** by Jason Fried and David Heinemeier Hansson
+298. **Remote** by Jason Fried and David Heinemeier Hansson
+299. **It Doesn't Have to Be Crazy at Work** by Jason Fried and David Heinemeier Hansson
+300. **Blue Ocean Strategy** by W. Chan Kim and Renée Mauborgne
 
 ## Usage
 
