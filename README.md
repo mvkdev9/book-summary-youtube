@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-280)
+## Book List (1-290)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -299,6 +299,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 278. **The Simple Path to Wealth** by J.L. Collins
 279. **I Will Teach You to Be Rich** by Ramit Sethi
 280. **Your Money or Your Life** by Vicki Robin
+281. **Money: Master the Game** by Tony Robbins
+282. **Unshakeable** by Tony Robbins
+283. **The Total Money Makeover** by Dave Ramsey
+284. **Financial Peace** by Dave Ramsey
+285. **The Automatic Millionaire** by David Bach
+286. **Smart Women Finish Rich** by David Bach
+287. **The Barefoot Investor** by Scott Pape
+288. **Secrets of the Millionaire Mind** by T. Harv Eker
+289. **The Almanack of Naval Ravikant** by Eric Jorgenson
+290. **Principles** by Ray Dalio
 
 ## Usage
 
