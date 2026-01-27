@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-180)
+## Book List (1-190)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -197,6 +197,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 178. **The Third Side** by William Ury
 179. **Captivate** by Vanessa Van Edwards
 180. **Cues** by Vanessa Van Edwards
+181. **The Charisma Myth** by Olivia Fox Cabane
+182. **How to Talk to Anyone** by Leil Lowndes
+183. **The Fine Art of Small Talk** by Debra Fine
+184. **Verbal Judo** by George J. Thompson
+185. **Games People Play** by Eric Berne
+186. **I'm OK – You're OK** by Thomas A. Harris
+187. **Mating in Captivity** by Esther Perel
+188. **The State of Affairs** by Esther Perel
+189. **Come as You Are** by Emily Nagoski
+190. **She Comes First** by Ian Kerner
 
 ## Usage
 
