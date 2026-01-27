@@ -1,0 +1,125 @@
+# Book Summary YouTube Scripts
+
+This repository contains a collection of detailed summaries and video scripts for the top 365 self-help and productivity books. Each entry is designed to be a comprehensive resource for content creators, bloggers, and lifelong learners.
+
+## Project Structure
+
+For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_Clear.md`) that includes:
+
+1.  **Long Detailed Summary for Blog:** A deep dive into the book's core concepts, key insights, and actionable strategies.
+2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
+3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
+
+## Book List (1-100)
+
+### Productivity & Time Management
+1.  **Atomic Habits** by James Clear
+2.  **The 7 Habits of Highly Effective People** by Stephen R. Covey
+3.  **Getting Things Done** by David Allen
+4.  **Deep Work** by Cal Newport
+5.  **The 4-Hour Workweek** by Timothy Ferriss
+6.  **Essentialism** by Greg McKeown
+7.  **Eat That Frog!** by Brian Tracy
+8.  **The Power of Habit** by Charles Duhigg
+9.  **Tiny Habits** by BJ Fogg
+10. **Make Time** by Jake Knapp and John Zeratsky
+11. **Indistractable** by Nir Eyal
+12. **Hyperfocus** by Chris Bailey
+13. **The One Thing** by Gary Keller and Jay Papasan
+14. **Digital Minimalism** by Cal Newport
+15. **Smarter Faster Better** by Charles Duhigg
+16. **The Compound Effect** by Darren Hardy
+17. **The Miracle Morning** by Hal Elrod
+18. **The 5 AM Club** by Robin Sharma
+19. **168 Hours** by Laura Vanderkam
+20. **The Organized Mind** by Daniel Levitin
+21. **Building a Second Brain** by Tiago Forte
+22. **Four Thousand Weeks** by Oliver Burkeman
+23. **The Bullet Journal Method** by Ryder Carroll
+24. **Free to Focus** by Michael Hyatt
+25. **Procrastinate on Purpose** by Rory Vaden
+26. **The 80/20 Principle** by Richard Koch
+27. **First Things First** by Stephen R. Covey
+28. **Effortless** by Greg McKeown
+29. **Do It Today** by Darius Foroux
+30. **The Productivity Project** by Chris Bailey
+31. **Zen to Done** by Leo Babauta
+32. **The Now Habit** by Neil Fiore
+33. **Time Management for System Administrators** by Thomas A. Limoncelli
+34. **How to Stop Procrastinating** by Steve Scott
+35. **The 12 Week Year** by Brian P. Moran
+36. **Scrum** by Jeff Sutherland
+37. **Off the Clock** by Laura Vanderkam
+38. **Drop the Ball** by Tiffany Dufu
+39. **Rest** by Alex Soojung-Kim Pang
+40. **Peak Performance** by Brad Stulberg and Steve Magness
+
+### Mindset, Psychology & Personal Growth
+41. **Mindset** by Carol S. Dweck
+42. **Grit** by Angela Duckworth
+43. **Thinking, Fast and Slow** by Daniel Kahneman
+44. **The Subtle Art of Not Giving a F*ck** by Mark Manson
+45. **Everything Is F*cked** by Mark Manson
+46. **12 Rules for Life** by Jordan B. Peterson
+47. **Beyond Order** by Jordan B. Peterson
+48. **Man's Search for Meaning** by Viktor E. Frankl
+49. **The Power of Now** by Eckhart Tolle
+50. **A New Earth** by Eckhart Tolle
+51. **The Four Agreements** by Don Miguel Ruiz
+52. **The Alchemist** by Paulo Coelho
+53. **Daring Greatly** by Brené Brown
+54. **The Gifts of Imperfection** by Brené Brown
+55. **Rising Strong** by Brené Brown
+56. **Braving the Wilderness** by Brené Brown
+57. **Atlas of the Heart** by Brené Brown
+58. **Quiet** by Susan Cain
+59. **Flow** by Mihaly Csikszentmihalyi
+60. **Originals** by Adam Grant
+61. **Give and Take** by Adam Grant
+62. **Think Again** by Adam Grant
+63. **Option B** by Sheryl Sandberg and Adam Grant
+64. **The Happiness Hypothesis** by Jonathan Haidt
+65. **Stumbling on Happiness** by Daniel Gilbert
+66. **Influence** by Robert B. Cialdini
+67. **Pre-Suasion** by Robert B. Cialdini
+68. **Blink** by Malcolm Gladwell
+69. **Outliers** by Malcolm Gladwell
+70. **David and Goliath** by Malcolm Gladwell
+71. **The Tipping Point** by Malcolm Gladwell
+72. **Talking to Strangers** by Malcolm Gladwell
+73. **Emotional Intelligence** by Daniel Goleman
+74. **Social Intelligence** by Daniel Goleman
+75. **Focus** by Daniel Goleman
+76. **Learned Optimism** by Martin E.P. Seligman
+77. **Authentic Happiness** by Martin E.P. Seligman
+78. **Flourish** by Martin E.P. Seligman
+79. **The Art of Happiness** by Dalai Lama
+80. **The Book of Joy** by Dalai Lama and Desmond Tutu
+81. **Switch** by Chip and Dan Heath
+82. **Made to Stick** by Chip and Dan Heath
+83. **Decisive** by Chip and Dan Heath
+84. **The Power of Positive Thinking** by Norman Vincent Peale
+85. **How to Win Friends and Influence People** by Dale Carnegie
+86. **How to Stop Worrying and Start Living** by Dale Carnegie
+87. **Awaken the Giant Within** by Tony Robbins
+88. **Unlimited Power** by Tony Robbins
+89. **The Magic of Thinking Big** by David J. Schwartz
+90. **Psycho-Cybernetics** by Maxwell Maltz
+91. **As a Man Thinketh** by James Allen
+92. **The Chimp Paradox** by Steve Peters
+93. **Chatter** by Ethan Kross
+94. **The Obstacle Is the Way** by Ryan Holiday
+95. **Ego Is the Enemy** by Ryan Holiday
+96. **Stillness Is the Key** by Ryan Holiday
+97. **The Daily Stoic** by Ryan Holiday
+98. **Meditations** by Marcus Aurelius
+99. **Letters from a Stoic** by Seneca
+100. **Discourses** by Epictetus
+
+## Usage
+
+Feel free to use these scripts for your own content creation journey. Whether you are looking to start a YouTube channel, a blog, or just want to learn the key insights from these transformative books, this repository is for you.
+
+## License
+
+MIT
