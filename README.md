@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-100)
+## Book List (1-120)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -115,6 +115,26 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 98. **Meditations** by Marcus Aurelius
 99. **Letters from a Stoic** by Seneca
 100. **Discourses** by Epictetus
+101. **The Art of Living** by Epictetus
+102. **Courage Is Calling** by Ryan Holiday
+103. **Discipline Is Destiny** by Ryan Holiday
+104. **10% Happier** by Dan Harris
+105. **Waking Up** by Sam Harris
+106. **Mindfulness in Plain English** by Bhante Henepola Gunaratana
+107. **Wherever You Go, There You Are** by Jon Kabat-Zinn
+108. **Full Catastrophe Living** by Jon Kabat-Zinn
+109. **Radical Acceptance** by Tara Brach
+110. **True Refuge** by Tara Brach
+111. **Loving What Is** by Byron Katie
+112. **The Untethered Soul** by Michael A. Singer
+113. **The Surrender Experiment** by Michael A. Singer
+114. **The Seat of the Soul** by Gary Zukav
+115. **A Return to Love** by Marianne Williamson
+116. **You Are a Badass** by Jen Sincero
+117. **Big Magic** by Elizabeth Gilbert
+118. **The Artist's Way** by Julia Cameron
+119. **Steal Like an Artist** by Austin Kleon
+120. **Show Your Work!** by Austin Kleon
 
 ## Usage
 
