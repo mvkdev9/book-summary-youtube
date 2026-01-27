@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-250)
+## Book List (1-260)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -267,6 +267,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 248. **The Plant Paradox** by Steven Gundry
 249. **The Longevity Paradox** by Steven Gundry
 250. **How Not to Die** by Michael Greger
+251. **How Not to Diet** by Michael Greger
+252. **Eat to Beat Disease** by William Li
+253. **The Obesity Code** by Jason Fung
+254. **The Diabetes Code** by Jason Fung
+255. **The Cancer Code** by Jason Fung
+256. **Metabolical** by Robert Lustig
+257. **Fat Chance** by Robert Lustig
+258. **Salt Sugar Fat** by Michael Moss
+259. **Hooked** by Michael Moss
+260. **In Defense of Food** by Michael Pollan
 
 ## Usage
 
