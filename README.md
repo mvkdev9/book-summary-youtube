@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-310)
+## Book List (1-320)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -331,6 +331,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 308. **Elon Musk** by Walter Isaacson
 309. **Benjamin Franklin** by Walter Isaacson
 310. **Leonardo da Vinci** by Walter Isaacson
+311. **Einstein** by Walter Isaacson
+312. **Kissinger** by Walter Isaacson
+313. **The Code Breaker** by Walter Isaacson
+314. **Originals** by Adam Grant
+315. **Give and Take** by Adam Grant
+316. **Think Again** by Adam Grant
+317. **Hidden Potential** by Adam Grant
+318. **Option B** by Sheryl Sandberg and Adam Grant
+319. **Lean In** by Sheryl Sandberg
+320. **Presence** by Amy Cuddy
 
 ## Usage
 
