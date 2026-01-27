@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-130)
+## Book List (1-140)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -145,6 +145,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 128. **Predictably Irrational** by Dan Ariely
 129. **The Upside of Irrationality** by Dan Ariely
 130. **Nudge** by Richard H. Thaler and Cass R. Sunstein
+131. **Misbehaving** by Richard H. Thaler
+132. **Thinking in Bets** by Annie Duke
+133. **Quit** by Annie Duke
+134. **Range** by David Epstein
+135. **Peak** by Anders Ericsson
+136. **Mastery** by Robert Greene
+137. **The 48 Laws of Power** by Robert Greene
+138. **The Laws of Human Nature** by Robert Greene
+139. **33 Strategies of War** by Robert Greene
+140. **The Art of Seduction by Robert Greene**
 
 ## Usage
 
