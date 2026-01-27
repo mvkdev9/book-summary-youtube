@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-120)
+## Book List (1-130)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -135,6 +135,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 118. **The Artist's Way** by Julia Cameron
 119. **Steal Like an Artist** by Austin Kleon
 120. **Show Your Work!** by Austin Kleon
+121. **Keep Going** by Austin Kleon
+122. **War of Art** by Steven Pressfield
+123. **Turning Pro** by Steven Pressfield
+124. **Do the Work** by Steven Pressfield
+125. **Feel the Fear and Do It Anyway** by Susan Jeffers
+126. **The Six Pillars of Self-Esteem** by Nathaniel Branden
+127. **The Psychology of Self-Esteem** by Nathaniel Branden
+128. **Predictably Irrational** by Dan Ariely
+129. **The Upside of Irrationality** by Dan Ariely
+130. **Nudge** by Richard H. Thaler and Cass R. Sunstein
 
 ## Usage
 
