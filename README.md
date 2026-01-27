@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-210)
+## Book List (1-220)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -225,6 +225,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 208. **Adult Children of Emotionally Immature Parents** by Lindsay C. Gibson
 209. **Running on Empty** by Jonice Webb
 210. **The Body Keeps the Score** by Bessel van der Kolk
+211. **Waking the Tiger** by Peter A. Levine
+212. **It Didn't Start with You** by Mark Wolynn
+213. **What Happened to You?** by Bruce D. Perry and Oprah Winfrey
+214. **The Boy Who Was Raised as a Dog** by Bruce D. Perry
+215. **Parenting from the Inside Out** by Daniel J. Siegel
+216. **The Whole-Brain Child** by Daniel J. Siegel
+217. **No-Drama Discipline** by Daniel J. Siegel
+218. **The Power of Showing Up** by Daniel J. Siegel
+219. **Brainstorm** by Daniel J. Siegel
+220. **How to Talk So Kids Will Listen & Listen So Kids Will Talk** by Adele Faber
 
 ## Usage
 
