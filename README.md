@@ -10,7 +10,7 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 2.  **Long Form YouTube Video Script (10 Minutes):** A structured script with a hook, body segments, and a strong conclusion, perfect for video essays.
 3.  **Short Form Video Scripts (30-60 Seconds):** 5 distinct scripts optimized for TikTok, YouTube Shorts, and Instagram Reels.
 
-## Book List (1-170)
+## Book List (1-180)
 
 ### Productivity & Time Management
 1.  **Atomic Habits** by James Clear
@@ -187,6 +187,16 @@ For each book, you will find a markdown file (e.g., `001_Atomic_Habits___James_C
 168. **Nonviolent Communication** by Marshall B. Rosenberg
 169. **Crucial Conversations** by Kerry Patterson et al.
 170. **Crucial Confrontations** by Kerry Patterson et al.
+171. **Difficult Conversations** by Douglas Stone
+172. **Thanks for the Feedback** by Douglas Stone and Sheila Heen
+173. **Radical Candor** by Kim Scott
+174. **Just Listen** by Mark Goulston
+175. **Never Split the Difference** by Chris Voss
+176. **Getting to Yes** by Roger Fisher and William Ury
+177. **Getting Past No** by William Ury
+178. **The Third Side** by William Ury
+179. **Captivate** by Vanessa Van Edwards
+180. **Cues** by Vanessa Van Edwards
 
 ## Usage
 
